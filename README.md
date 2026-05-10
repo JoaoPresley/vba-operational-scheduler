@@ -24,7 +24,8 @@ Para esta exibição no GitHub:
     * Algoritmos de busca e organização de matrizes de dados.
 
 ## 📸 Demonstração (Versão Sanitizada)
-*(Insira aqui os links das imagens que você limpou como "Tom 1", "Tom 2")*
+*Painel de controle onde os serviços são distribuidos por técnico e dias da semana*
+![Programação Semanal](https://github.com/JoaoPresley/vba-operational-scheduler/edit/main/printscreen/PCM_schedule.png)
 
 ## 📂 Estrutura do Repositório
 * `/src`: Código-fonte exportado (`.bas` e `.cls`) para visualização direta no navegador.
