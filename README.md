@@ -18,8 +18,9 @@ Para esta exibição no GitHub:
 * O funcionamento da planilha de **Operação (OCGR)** apresentada não sofreu qualquer alteração, operando exatamente como na versão de produção.
 
 ## 🛠️ Especificações Técnicas
-* **Compatibilidade:** Desenvolvido para **Microsoft Excel 2007**, mantendo alta performance em versões legadas do Office.
-* **Destaques de Código:** * Automação via Eventos (`Workbook_SheetActivate`).
+* **Compatibilidade:** Desenvolvido para **Microsoft Excel 2007**, solução robusta projetada para ambientes corporativos com restrições de atualização de software, mantendo retrocompatibilidade total.
+* **Destaques de Código:**
+    * Automação via Eventos (`Workbook_SheetActivate`).
     * Funções modulares que recebem parâmetros de setor (ex: `Call Prog_Diária("OCGR", Sh.Name)`).
     * Algoritmos de busca e organização de matrizes de dados.
 
