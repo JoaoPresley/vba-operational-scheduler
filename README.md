@@ -24,8 +24,18 @@ Para esta exibição no GitHub:
     * Algoritmos de busca e organização de matrizes de dados.
 
 ## 📸 Demonstração (Versão Sanitizada)
+
+### 1. Programação semanal das atividades
 *Painel de controle onde os serviços são distribuidos por técnico e dias da semana*
-![Programação Semanal](https://github.com/JoaoPresley/vba-operational-scheduler/edit/main/printscreen/PCM_schedule.png)
+![Programação Semanal](https://github.com/JoaoPresley/vba-operational-scheduler/blob/main/PrintScreen/PCM_schedule.png)
+
+### 2. Visualização da programação semanal das atividades
+*Realatório automatizado dos seviços programados para a próxima semana*
+![Visualização da semana](https://github.com/JoaoPresley/vba-operational-scheduler/blob/main/PrintScreen/week.png)
+
+### 3. Visualização da programação diária das atividades
+*Realatório diário automátizado dos serviços programados para o dia seguinte*
+![Visualização do próximo dia](https://github.com/JoaoPresley/vba-operational-scheduler/blob/main/PrintScreen/daily.png)
 
 ## 📂 Estrutura do Repositório
 * `/src`: Código-fonte exportado (`.bas` e `.cls`) para visualização direta no navegador.
