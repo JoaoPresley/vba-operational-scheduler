@@ -42,4 +42,4 @@ Para esta exibição no GitHub:
 * `Automacao_Operacional.xlsm`: Ficheiro Excel funcional (habilitado para macros).
 
 ---
-*Projeto desenvolvido por [Seu Nome/GitHub User]*
+*Projeto desenvolvido por JOÃO ALENCAR/JoaoPresley*
